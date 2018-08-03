@@ -23,3 +23,6 @@ class Person
     @job = job_name
   end
 end
+
+
+/usr/local/rvm/gems/ruby-2.3.1/bin/rspec:23:in `load': /home/musicmills1990/ruby-object-attributes-lab-v-000/lib/dog.rb:14: syntax error, unexpected ')' (SyntaxError)
